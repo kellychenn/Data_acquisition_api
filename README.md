@@ -1,6 +1,6 @@
 # financial_data_acquisiton_api
 
-This is a python package that scrapes financial data(stock prices and financial statements) from yahoo finance and rclean and handle the data. 
+This is a python package that scrapes financial data(stock prices and financial statements) from yahoo finance. 
 
 ## Installation
 
